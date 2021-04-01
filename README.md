@@ -13,11 +13,6 @@ I am currently studying IT subjects at a university and working part-time at an 
   * [**GB Studio**](https://www.gbstudio.dev/): rpg, kinetic progression, turn-based combat, ~1h game length
 * [**Heimweh**](https://github.com/locherunderscore/Heimweh)
   * [**RenPy**](https://www.renpy.org/), for a bachelor thesis: visual novel, kinetic progression, ~1h game length
-### Websites
-* [**Followmestore**](https://followmestore.de/)
-  * Utilizes [**Shopware5**](https://www.shopware.com/), combined with a separate [**Wordpress**](https://wordpress.com/) instance for blog posts
-* [**Kakuzo**](https://kakuzo.de)
-  * A WooCommerce webshop that sells a unique japanese-inspired liqueur
 
 ### Others
 * **Shopware 5 + 6 Plugins**
